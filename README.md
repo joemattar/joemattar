@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning fullstack web development
 - 💞️ I’m looking to collaborate on everything
-- 📫 How to reach me ... Git
+- 📫 How to reach me ... Github
 
 <!---
 joemattar/joemattar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
