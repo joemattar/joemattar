@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @joemattar
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning fullstack web development
-- 💞️ I’m looking to collaborate on everything
+- 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me ... Github
 
 <!---
